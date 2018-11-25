@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tuto",
+  "name": "Tuto",
+  "description": "Tuto inf",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["java_power"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

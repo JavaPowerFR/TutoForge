@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures":
+    {
+        "particle": "tuto:blocks/compressedstone",
+        "down": "tuto:blocks/compressedstone",
+        "up": "tuto:blocks/compressedstone",
+        "north": "tuto:blocks/keypad",
+        "east": "tuto:blocks/compressedstone",
+        "south": "tuto:blocks/compressedstone",
+        "west": "tuto:blocks/compressedstone"
+    }
+}
